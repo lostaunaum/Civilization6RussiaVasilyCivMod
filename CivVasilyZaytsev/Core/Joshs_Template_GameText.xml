@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_MLS_SOVIETUNION_NAME" Language="en_US">
+			<Text>The Soviet Union</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MLS_SOVIETUNION_DESCRIPTION" Language="en_US">
+			<Text>The Soviet Union</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MLS_SOVIETUNION_ADJECTIVE" Language="en_US">
+			<Text>The Soviet Union</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MLS_SOVIETUNION_DESCRIPTION_MLS_CIVILIZATION" Language="en_US">
+			<Text>The Soviet Union</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_MLS_SOVIETUNION_LOCATION" Language="en_US">
+			<Text>Europe</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MLS_SOVIETUNION_POPULATION" Language="en_US">
+			<Text>Josh Was Here 2k17</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MLS_SOVIETUNION_SIZE" Language="en_US">
+			<Text>Josh Was Here 2k17</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MLS_SOVIETUNION_CAPITAL" Language="en_US">
+			<Text>Stalingrad</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MLS_SOVIETUNION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Josh Was Here 2k17</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MLS_SOVIETUNION_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Josh Was Here 2k17</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MLS_SOVIETUNION_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Josh Was Here 2k17</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MLS_SOVIETUNION_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Josh Was Here 2k17</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MLS_SOVIETUNION_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Josh Was Here 2k17</Text>
+		</Row>
+		
+		
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_1" Language="en_US">
+			<Text>Stalingrad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_2" Language="en_US">
+			<Text>Kursk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_3" Language="en_US">
+			<Text>Tynda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_4" Language="en_US">
+			<Text>Krasnoturyinsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_5" Language="en_US">
+			<Text>Blagoveshchensk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_6" Language="en_US">
+			<Text>Yuzhno-Sakhalinsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_7" Language="en_US">
+			<Text>Pytalovo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_8" Language="en_US">
+			<Text>Zelenogorsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_9" Language="en_US">
+			<Text>Leningrad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_10" Language="en_US">
+			<Text>Gusinoozyorsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_11" Language="en_US">
+			<Text>Primorsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_12" Language="en_US">
+			<Text>Dolgoprudny</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_13" Language="en_US">
+			<Text>Dvigatelstroy</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_14" Language="en_US">
+			<Text>Korolyov</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_15" Language="en_US">
+			<Text>Severo-Kurilsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_16" Language="en_US">
+			<Text>Kirov</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_17" Language="en_US">
+			<Text>Mariinsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_18" Language="en_US">
+			<Text>Kodinsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_19" Language="en_US">
+			<Text>Lenino</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_20" Language="en_US">
+			<Text>Asbest</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_21" Language="en_US">
+			<Text>Sovetsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_22" Language="en_US">
+			<Text>Novokuznetsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_23" Language="en_US">
+			<Text>Kuznetsovo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_24" Language="en_US">
+			<Text>Lermontovsky</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_25" Language="en_US">
+			<Text>Maoka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_26" Language="en_US">
+			<Text>Nezametny</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_27" Language="en_US">
+			<Text>Nizhnevartovsky</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_28" Language="en_US">
+			<Text>Noda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_29" Language="en_US">
+			<Text>Petropavlovsky</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLS_SOVIETUNION_30" Language="en_US">
+			<Text>Pokrovskoye</Text>
+		</Row>
+		
+		
+		
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MALE_1" Language="en_US">
+			<Text>Vasily Zaytsev</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MALE_2" Language="en_US">
+			<Text>Some Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MALE_3" Language="en_US">
+			<Text>Some Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MALE_4" Language="en_US">
+			<Text>Some Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MALE_5" Language="en_US">
+			<Text>Some Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MALE_6" Language="en_US">
+			<Text>Some Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MALE_7" Language="en_US">
+			<Text>Some Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MALE_8" Language="en_US">
+			<Text>Some Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MALE_9" Language="en_US">
+			<Text>Some Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_MALE_1" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_MALE_2" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_MALE_3" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_MALE_4" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_MALE_5" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_MALE_6" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_MALE_7" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_MALE_8" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_MALE_9" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_MALE_10" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_FEMALE_1" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_FEMALE_2" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_FEMALE_3" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_FEMALE_4" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_FEMALE_5" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_FEMALE_6" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_FEMALE_7" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_FEMALE_8" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_FEMALE_9" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_FEMALE_10" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_FEMALE_1" Language="en_US">
+			<Text>Some Modern Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_FEMALE_2" Language="en_US">
+			<Text>Some Modern Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_FEMALE_3" Language="en_US">
+			<Text>Some Modern Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_FEMALE_4" Language="en_US">
+			<Text>Some Modern Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_FEMALE_5" Language="en_US">
+			<Text>Some Modern Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_FEMALE_6" Language="en_US">
+			<Text>Some Modern Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_FEMALE_7" Language="en_US">
+			<Text>Some Modern Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_FEMALE_8" Language="en_US">
+			<Text>Some Modern Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_FEMALE_9" Language="en_US">
+			<Text>Some Modern Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MLS_SOVIETUNION_MODERN_FEMALE_10" Language="en_US">
+			<Text>Some Modern Girl</Text>
+		</Row>
+		
+		
+		
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_MLS_LEADER_CUSTOM_NAME" Language="en_US">
+			<Text>Vasily Zaytsev</Text>
+		</Row>
+
+		
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MLS_LEADER_CUSTOM" Language="en_US">
+			<Text>Zaytsev was born in Yeleninskoye, Orenburg Governorate in a peasant family of Russian ethnicity[2] and grew up in the Ural Mountains, where he learned marksmanship by hunting deer and wolves with his grandfather and older brother. He brought home his first trophy at the age of 12: a wolf that he shot with a single bullet from his first personal rifle, a large single-shot Berdan, which at the time he was barely able to carry on his back....</Text>
+		</Row>
+		
+		
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MLS_LEADER_CUSTOM_TITLE" Language="en_US">
+			<Text>Sheep</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MLS_LEADER_CUSTOM_SUBTITLE" Language="en_US">
+			<Text>You Leaders Title</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MLS_LEADER_CUSTOM_QUOTE" Language="en_US">
+			<Text>Your Leaders Quote</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MLS_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>paragraphc 1 etc...</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MLS_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>-</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MLS_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>-</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MLS_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>-</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MLS_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>-</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MLS_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>-</Text>
+		</Row>
+		
+		
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Ah another person who's cities I can take!</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Do you want to come and visit my city?</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Let me come and inspect your city, I bet it's not Efficient...</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Let's compare Cities, I know that yours will be trash, but you can look at mine for help!</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>You alright mate?</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Thanks for the delegation.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Lol, I don't want your Delegation...</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>I have sent you a delegation of Worthingtons and Dominos pizza!</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>My Man!</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Lol that's a trash offer... </Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Open your borders... For Reasons...</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Yeah alright, we can be friends... For now...</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Lol I don't want to be friends with you... You're a noob...</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Hey, do you want to be friends? We can team up and wreck those other noobs!</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>My Man!</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>That's fine, it means I can just raze you instead...</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Join forces with me, and together we will win the game!</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>You are a pretty sound person. I like what you're up to!</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>You're a massive noob! Stop doing stupid stuff...</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>I see those troops on my borders... And I will farm them for EXP if your not careful!</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MLS_LEADER_CUSTOM_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MLS_LEADER_CUSTOM_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>HAHA! Do you know what? Good... Go ahead and casus beli me in 5 turns... I dare you!</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Watching you play this game is like watching a car crash in slow motion... You are inefficient, bad and just a massive noob... Go learn how to play CIV you complete wreck... (Denounces You)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>YEAH BOI! Now we are talking... I have Nukes by the way...</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>I'm bored of you, time to get taken out the game you absolute pest!</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Meh, I was bored anyway...</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>NEVER!</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Right, I'm getting loads of war weariness... So let's make peace then carry on later...</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>You cheated... It doesn't count... I bet you're playing on settler difficulty!</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MLS_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MLS_LEADER_CUSTOM_ANY]</Text>
+		</Row>
+
+
+
+
+		
+		
+		
+		
+		
+		
+
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_MLS_LEADER_CUSTOM_ECO_NAME" Language="en_US">
+			<Text>Wheeler Dealer</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MLS_LEADER_CUSTOM_ECO_DESCRIPTION" Language="en_US">
+			<Text>+1 Extra Economic Slot in any government.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_BUILDING_MLS_CUSTOM_NAME" Language="en_US">
+			<Text>Barbarian Hate Club</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MLS_CUSTOM_DESCRIPTION" Language="en_US">
+			<Text>+1 [Icon_Strength] Combat Strength Vs Barbarians for each Hate Club built.</Text>
+		</Row>
+
+	</LocalizedText>
+</GameData>

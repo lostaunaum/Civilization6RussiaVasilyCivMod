@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Soviet Union</Name>
+    <Guid>c59670a3-ecdb-433d-9f26-63d66895af06</Guid>
+    <ProjectGuid>e0713f2f-efe1-4ece-a700-9ff969796104</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>New Russian civilization adds Vasily Zaytsev</Teaser>
+    <Description>New Russian civilization adds Vasily Zaytsev</Description>
+    <Authors>Marco</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <AssemblyName>CivVasilyZaytsev</AssemblyName>
+    <RootNamespace>CivVasilyZaytsev</RootNamespace>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="NewAction"><File>Core/Joshs_Template_Config.sql</File><File>Core/Joshs_Template_Buildings.xml</File></UpdateDatabase><UpdateIcons id="NewAction"><File>Core/Joshs_Template_Icons.xml</File></UpdateIcons><UpdateText id="NewAction"><File>Core/Joshs_Template_GameText.xml</File></UpdateText><UpdateArt id="NewAction"><File>Mod.Art.xml</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="NewAction"><File>Core/Joshs_Template_GameDefines.sql</File><File>Core/Joshs_Template_Buildings.xml</File></UpdateDatabase><UpdateIcons id="NewAction"><File>Core/Joshs_Template_Icons.xml</File></UpdateIcons><UpdateText id="NewAction"><File>Core/Joshs_Template_GameText.xml</File></UpdateText><UpdateArt id="NewAction"><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Mod.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ArtDefs" />
+    <Folder Include="Core" />
+    <Folder Include="XLPs" />
+    <Folder Include="Textures" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ArtDefs\FallbackLeaders.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\Leaders.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Joshs_Template_Buildings.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Joshs_Template_Config.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Joshs_Template_GameDefines.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Joshs_Template_GameText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Joshs_Template_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ART_LEADER_LEADER_CUSTOM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ART_LEADER_LEADER_CUSTOM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\FALLBACK_NEUTRAL_LEADER_CUSTOM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\FALLBACK_NEUTRAL_LEADER_CUSTOM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_SOVIETUNION_256.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_SOVIETUNION_256.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_SOVIETUNION_32.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_SOVIETUNION_32.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_SOVIETUNION_45.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_SOVIETUNION_45.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_SOVIETUNION_50.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_SOVIETUNION_50.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_SOVIETUNION_55.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_SOVIETUNION_55.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_SOVIETUNION_64.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_SOVIETUNION_64.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_SOVIETUNION_80.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_SOVIETUNION_80.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_LEADER_CUSTOM_256.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_LEADER_CUSTOM_256.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_LEADER_CUSTOM_32.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_LEADER_CUSTOM_32.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_LEADER_CUSTOM_45.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_LEADER_CUSTOM_45.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_LEADER_CUSTOM_50.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_LEADER_CUSTOM_50.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_LEADER_CUSTOM_55.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_LEADER_CUSTOM_55.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_LEADER_CUSTOM_64.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_LEADER_CUSTOM_64.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_LEADER_CUSTOM_80.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ICON_LEADER_CUSTOM_80.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\LEADER_LEADER_CUSTOM_BACKGROUND.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\LEADER_LEADER_CUSTOM_BACKGROUND.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\LEADER_LEADER_CUSTOM_NEUTRAL.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\LEADER_LEADER_CUSTOM_NEUTRAL.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\Icons.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\LeaderBackgrounds.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\LeaderFallbacks.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\Leader_LEADER_CUSTOM.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\UILeaders.xlp">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>
